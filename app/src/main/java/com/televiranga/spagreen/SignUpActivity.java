@@ -65,7 +65,7 @@ public class SignUpActivity extends AppCompatActivity {
         mFirebaseAnalytics.logEvent(FirebaseAnalytics.Event.SELECT_CONTENT, bundle);
 
         dialog = new ProgressDialog(this);
-        dialog.setMessage("Please wait");
+        dialog.setMessage("Espere por favor...");
         dialog.setCancelable(false);
 
         etName=findViewById(R.id.name);

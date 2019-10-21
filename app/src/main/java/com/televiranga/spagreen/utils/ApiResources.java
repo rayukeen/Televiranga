@@ -4,7 +4,7 @@ import com.televiranga.spagreen.Config;
 
 public class ApiResources {
 
-    public static String adStatus="1",adMobBannerId="ca-app-pub-2938663008310901/9862468764", adMobInterstitialId="ca-app-pub-2938663008310901/4527038145", adMobPublisherId="ca-app-pub-2938663008310901~5520555616";
+    public static String adStatus="0",adMobBannerId="ca-app-pub-9090297307099078/7376885814", adMobInterstitialId="ca-app-pub-9090297307099078/6190144266", adMobPublisherId="pub-9090297307099078";
 
 
     String URL = Config.API_SERVER_URL;
