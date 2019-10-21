@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "774511373724",
+    "firebase_url": "https://televiranga.firebaseio.com",
+    "project_id": "televiranga",
+    "storage_bucket": "televiranga.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774511373724:android:24b95789dc3bcdd0c96c59",
+        "android_client_info": {
+          "package_name": "com.televiranga.spagreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774511373724-o6bs4jgsd3u2qleev6gi08jgv6jeftuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtVbInOxO4QNkA-AVsbgyGfLZ_VPxsaps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774511373724-o6bs4jgsd3u2qleev6gi08jgv6jeftuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

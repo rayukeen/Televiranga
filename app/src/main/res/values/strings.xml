@@ -1,0 +1,147 @@
+<resources>
+
+    <string name="app_name">Televiranga</string>
+    <!--app_title for main navigation & home title-->
+    <string name="app_title">Televiranga</string>
+    <string name="app_version">1.1.1</string>
+    <string name="contact_email">info@dominicana041.com</string>
+    <string name="copyright_text">Copyright @ Televiranga \nTodos los derechos reservados</string>
+    <!-- App -->
+    <string name="featured_tv_channels">Canal de televisión destacado</string>
+    <string name="latest_movie">Últimas películas</string>
+    <string name="latest_tv_series">La última serie de TV</string>
+    <string name="more">Más</string>
+    <string name="movie">Películas</string>
+    <string name="live_tv">TV en vivo</string>
+    <string name="tv_series">Series de Televisión</string>
+    <string name="country">País</string>
+    <string name="genre">Género</string>
+    <string name="fav">Favorito</string>
+    <string name="search">Buscar</string>
+    <string name="no_item_found">No se ha encontrado ningún artículo</string>
+    <string name="cast_n_crew">Reparto y equipo</string>
+    <string name="related_movie">Película relacionada</string>
+    <string name="signin">Registrarse</string>
+    <string name="reset">Restablecer la contraseña</string>
+    <string name="register">Registro</string>
+    <string name="full_name">Nombre completo</string>
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="save">Grabar</string>
+    <string name="director">Director :</string>
+    <string name="description">Descripción</string>
+    <string name="comments">Comentarios</string>
+    <string name="your_comments">Tus comentarios</string>
+    <string name="add_comments">Añadir comentarios</string>
+    <string name="no_internet">Sin conexión a Internet !</string>
+    <string name="copyright">Copyright</string>
+    <string name="contact_us">Contáctenos</string>
+    <string name="fetch_error">No es posible recuperar datos</string>
+    <string name="login_first">Primero debes iniciar sesión</string>
+    <string name="comment_empty">El comentario no puede vaciarse</string>
+    <string name="error_toast">Algo salió mal ! intenta más tarde</string>
+
+    <string-array name="nav_item_name">
+        <item>Inicio</item>
+        <item>Películas</item>
+        <item>TV en vivo</item>
+        <item>Series de TV</item>
+        <item>Género</item>
+        <item>País</item>
+        <item>Perfil</item>
+        <item>Favoritos</item>
+        <item>Desconectar</item>
+        <item>Configuraciones</item>
+    </string-array>
+
+    <string-array name="nav_item_image">
+        <item>outline_home_24</item>
+        <item>outline_movie_24</item>
+        <item>outline_live_tv_24</item>
+        <item>outline_local_movies_24</item>
+        <item>outline_folder_24</item>
+        <item>outline_outlined_flag_24</item>
+        <item>outline_person_24</item>
+        <item>outline_favorite_border_24</item>
+        <item>outline_lock_24</item>
+        <item>outline_settings_24</item>
+    </string-array>
+
+    <string-array name="nav_item_name_2">
+        <item>Inicio</item>
+        <item>Películas</item>
+        <item>TV en vivo</item>
+        <item>Series de TV</item>
+        <item>Género</item>
+        <item>País</item>
+        <item>iniciar sesión</item>
+        <item>Configuraciones</item>
+    </string-array>
+
+    <string-array name="nav_item_image_2">
+        <item>outline_home_24</item>
+        <item>outline_movie_24</item>
+        <item>outline_live_tv_24</item>
+        <item>outline_local_movies_24</item>
+        <item>outline_folder_24</item>
+        <item>outline_outlined_flag_24</item>
+        <item>outline_lock_24</item>
+        <item>outline_settings_24</item>
+    </string-array>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+
+    <!-- Example settings for Data & Sync -->
+
+    <!-- Example settings for Notifications -->
+
+    <string name="title_activity_player">PlayerActivity</string>
+
+    <string name="title_activity_item_show">ItemShowActivity</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="title_activity_reply">ReplyActivity</string>
+    <string name="add_to_queue">Agregar a la cola</string>
+    <string name="play_now">Reproducir ahora</string>
+    <string name="play_next">Reproducir siguiente</string>
+    <string name="queue_item_added_to_play_next">Se agregó un elemento para reproducir a continuación</string>
+    <string name="queue_item_added_to_queue">Se agregó un elemento a la cola.</string>
+    <string name="program_guide">Guia de programa</string>
+    <string name="live">LIVE</string>
+    <string name="watching_on">Viendo en vivo</string>
+    <string name="all_tv_channel">Todos los canales de TV</string>
+    <string name="you_may_also_like">También te puede interesar</string>
+    <string name="dark_mode">Modo oscuro</string>
+    <string name="tv_channels">Canales de televisión</string>
+    <string name="watching_catch_up_tv">Viendo la televisión puesta al día</string>
+    <string name="deactive_account_text">Si no desea utilizar esta cuenta, puede desactivarla fácilmente.</string>
+    <string name="reason_to_deactivate_account">Motivo para desactivar la cuenta</string>
+    <string name="enter_password">Introducir la contraseña</string>
+
+    <string name="terms_condition_text">
+        Aliquam eu mauris lectus. Pellentesque lacinia ut urna ut gravida. Proin libero sem, auctor in posuere sit amet, porta a nibh. Vivamus maximus nunc eu urna pellentesque vulputate. Phasellus lacinia ut diam id mattis. Ut fermentum, sem non viverra maximus, elit massa varius dolor, ac elementum mi nunc eu orci. Fusce ornare mi sed dapibus tempus. Quisque sollicitudin condimentum ex vitae imperdiet. Mauris et est non nibh gravida suscipit eget id est.
+        \n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec venenatis quis elit sed cursus. In commodo malesuada elit. Curabitur eget tortor ipsum. In consequat sollicitudin rhoncus. Donec interdum felis vitae ipsum mattis congue. Suspendisse eget tellus sit amet nunc egestas ultrices. Sed placerat eu arcu vel ullamcorper. Curabitur a dictum odio. Suspendisse fermentum ex vel ullamcorper scelerisque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam at nisl orci. Nullam ligula purus, pulvinar vel ligula sodales, tincidunt porttitor enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut semper tincidunt scelerisque. Praesent mollis magna ut consequat dictum.
+        \n\nDuis in vestibulum dui, non pulvinar tortor. Maecenas finibus nulla purus, ac consectetur erat finibus vitae. Ut eget convallis dolor. Mauris a leo nunc. Nullam facilisis tincidunt odio eget laoreet. Integer sapien ipsum, fringilla id purus et, cursus convallis dolor. Etiam vel lacinia nibh. Donec sollicitudin fermentum eleifend. Vivamus quis mauris in libero vehicula aliquet sit amet quis odio. Etiam et tincidunt turpis, vel iaculis urna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam et mollis enim.
+        \n\nPraesent interdum lectus suscipit enim dictum, sed laoreet nisl posuere. Curabitur accumsan tellus ac iaculis fermentum. Curabitur a purus nec nibh porta imperdiet. Vivamus dignissim libero ut mauris rhoncus finibus non at urna. Phasellus a varius elit, a blandit est. Cras sodales tincidunt purus sit amet condimentum. Phasellus consectetur sem nec nisi congue, id gravida risus tristique. Curabitur vulputate convallis purus, vel bibendum nunc ultricies at.
+        \n\nInteger condimentum egestas eros mollis facilisis. Praesent vitae diam ac diam efficitur pretium nec vitae dui. Nunc quam est, porttitor ut dapibus non, sodales id nulla. Mauris facilisis malesuada dapibus. Aliquam erat volutpat. Vivamus vitae consequat mauris, nec dictum erat. Aliquam in consectetur est, sit amet varius risus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent vulputate dapibus lorem, ut interdum lectus bibendum nec. Suspendisse potenti. Cras elementum cursus nisl, ac pulvinar eros fringilla vitae. Cras ac tortor sagittis diam feugiat tincidunt id at est. Curabitur consequat ante purus. Nunc malesuada scelerisque leo vel efficitur.
+    </string>
+    <string name="deactivate_account">Desactivar Cuenta</string>
+    <string name="explore_by_genre">Explorar por género</string>
+    <string name="explore_by_country">Explore por país</string>
+    <string name="share_this_app">Comparte esta aplicación</string>
+    <string name="share_body">I would like to share this TV &amp; Movie App.  Here you can download this from playstore :\n    https://play.google.com/store/apps/details?id=</string>
+    <string name="term_of_services">Plazo de servicios</string>
+    <string name="accept">Aceptar</string>
+    <string name="decline">No Acepto</string>
+    <string name="account_deactivate_info"><![CDATA[Your account will be deactivate & only admin can activate again.]]></string>
+    <string name="regular_program">Programa regular</string>
+    <string name="international">Internacional</string>
+    <string name="server">Server</string>
+    <string name="_1080p">1080P</string>
+    <string name="dummy_name">Jhon Doe</string>
+    <string name="notifications">NOTIFICACIONES</string>
+    <string name="push_notification">Push Notification</string>
+    <string name="others">OTROS</string>
+
+</resources>
